@@ -13,7 +13,7 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 
 1.- OBJETIVOS 
-
+Entender los metodos para resolver ecuaciones simultaneas con los metodos para determinar cantidades desconocidas en un circuito, entenderemos los principios magneticos y electromagneticos.
 
 OBJETIVOS ESPECIFICOS CAPITULO IX
 
@@ -42,9 +42,13 @@ OBJETIVOS ESPECIFICOS CAPITULO X
 
 CAPITULO 	IX
 
+
+
 [![Blank-diagram-7.png](https://i.postimg.cc/9Qd4wFPK/Blank-diagram-7.png)](https://postimg.cc/TKP2Zx4J)
 
+
 CAPITULO X
+
 
 [![Blank-diagram-8.png](https://i.postimg.cc/T10TSGLN/Blank-diagram-8.png)](https://postimg.cc/YL4cG5xQ)
 
@@ -56,7 +60,7 @@ CAPITULO X
 
 
 5.- CONCLUSIONES
-
+De acuerdo al analisis hecho en los capitulos 9 y 10 del libro de Principios de circuitos electricos Floyd podemos determinar de una manera propicia el correcto analisis ecuaciones simultáneas analizar nodos y lazos para determinar cantidades en los diferentes circuitos
 
 6.- BIBLIOGRAFÍA
 
