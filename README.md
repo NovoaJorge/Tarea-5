@@ -46,9 +46,9 @@ CAPITULO 	IX
 
 CAPITULO X
 
+[![Blank-diagram-8.png](https://i.postimg.cc/T10TSGLN/Blank-diagram-8.png)](https://postimg.cc/YL4cG5xQ)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
 
 
 4.- VIDEO
@@ -58,5 +58,8 @@ CAPITULO X
 
 
 6.- BIBLIOGRAFÍA
+
+La terminología de los circuitos. (n.d.). Khan Academy. Retrieved July 8, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology
+
 
 
