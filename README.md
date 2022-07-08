@@ -48,6 +48,7 @@ CAPITULO X
 
 [![Blank-diagram-8.png](https://i.postimg.cc/T10TSGLN/Blank-diagram-8.png)](https://postimg.cc/YL4cG5xQ)
 
+
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
