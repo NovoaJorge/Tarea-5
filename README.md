@@ -17,23 +17,34 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 OBJETIVOS ESPECIFICOS CAPITULO IX
 
-◆ Analizar tres métodos de resolver ecuaciones simultáneas
-◆ Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
-◆ Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
-◆ Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+◆ Analizar tres métodos de resolver ecuaciones simultáneas.
+
+◆ Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito.
+
+◆ Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito.
+
+◆ Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito.
 
 
 OBJETIVOS ESPECIFICOS CAPITULO X
 
-          
+◆ Explicar los principios de un campo magnético y del electromagnetismo. 
+
+◆ Describir el principio de operación de varios tipos de dispositivos electromagnéticos.
+
+◆ Explicar la histéresis magnética.
+
+◆ Analizar el principio de inducción electromagnética.
+
+◆ Describir algunas aplicaciones de la inducción electromagnética.
 
 2.- MARCO TEORICO 
 
-CAPITULO 	VII
+CAPITULO 	IX
 
+[![Blank-diagram-7.png](https://i.postimg.cc/9Qd4wFPK/Blank-diagram-7.png)](https://postimg.cc/TKP2Zx4J)
 
-
-CAPITULO VIII
+CAPITULO X
 
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
